@@ -1,2 +1,5 @@
-# Arma-Reforger-Server-Crash-Start-Script
-Check Server Crash state and restart server
+- Crash Detection: Swiftly identifies server crashes and initiates the restart process.
+- Automated Restart: Automatically restarts the server with predefined configurations to minimize downtime.
+- Customization Options: Flexible settings allow for tailored configurations to suit specific server setups and requirements.
+- Logging and Reporting: Comprehensive logging functionality provides insights into server activities and crash events for troubleshooting and analysis.
+- Compatibility: Compatible with a wide range of server environments and configurations, ensuring versatility and ease of integration.
