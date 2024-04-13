@@ -4,7 +4,10 @@ reforgerstart.bat - Windows batch file used to start the Arma Reforger Server.
 
 reforgerupdate.bat - Windows batch file that updates the Arma Reforger server if a new update is available.
 
+automatic_restart.bat - Windows batch file what makes automatics restarts in UTC time, time config in line set "restart_time=23:59"
+
 Key Features:
+- Automatic server restarts in UTC time zone.
 - Crash Detection: Swiftly identifies server crashes and initiates the restart process.
 - Automated Restart: Automatically restarts the server with predefined configurations to minimize downtime.
 - Customization Options: Flexible settings allow for tailored configurations to suit specific server setups and requirements.
