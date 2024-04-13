@@ -4,6 +4,8 @@
     SET ReforgerBranch=1874900
     SET ReforgerServerPath="C:\Servers\ArmaReforger\Server"
     SET SteamCMDPath="C:\Servers\ArmaReforger\SteamCMD"
+    :: Set the window title
+    title Arma Reforger Server Update
     :: _______________________________________________________________
  
 echo.
