@@ -6,6 +6,8 @@
     SET ReforgerServerPath="C:\Servers\ArmaReforger\Server"
     SET SteamCMDPath="C:\Servers\ArmaReforger\SteamCMD"
     SET ConfigFolder="C:\Servers\ArmaReforger\Server"
+    :: Set the window title
+    title Arma Reforger Server
     :: _______________________________________________________________
  
 echo.
