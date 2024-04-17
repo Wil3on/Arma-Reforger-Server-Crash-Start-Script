@@ -1,0 +1,3 @@
+Resource leaks
+Application crashed
+UpdateEntities
